@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pizza_place/static/css/main.ee4b2ecf.chunk.css",
+    "main.js": "/pizza_place/static/js/main.5a0185c3.chunk.js",
+    "main.js.map": "/pizza_place/static/js/main.5a0185c3.chunk.js.map",
+    "runtime-main.js": "/pizza_place/static/js/runtime-main.197abbe6.js",
+    "runtime-main.js.map": "/pizza_place/static/js/runtime-main.197abbe6.js.map",
+    "static/js/2.fef5ffbd.chunk.js": "/pizza_place/static/js/2.fef5ffbd.chunk.js",
+    "static/js/2.fef5ffbd.chunk.js.map": "/pizza_place/static/js/2.fef5ffbd.chunk.js.map",
+    "static/js/3.d7c2bd20.chunk.js": "/pizza_place/static/js/3.d7c2bd20.chunk.js",
+    "static/js/3.d7c2bd20.chunk.js.map": "/pizza_place/static/js/3.d7c2bd20.chunk.js.map",
+    "index.html": "/pizza_place/index.html",
+    "static/css/main.ee4b2ecf.chunk.css.map": "/pizza_place/static/css/main.ee4b2ecf.chunk.css.map",
+    "static/js/2.fef5ffbd.chunk.js.LICENSE.txt": "/pizza_place/static/js/2.fef5ffbd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pizza_place/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.197abbe6.js",
+    "static/js/2.fef5ffbd.chunk.js",
+    "static/css/main.ee4b2ecf.chunk.css",
+    "static/js/main.5a0185c3.chunk.js"
+  ]
+}
